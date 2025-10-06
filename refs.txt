@@ -1,1 +1,2 @@
-Horstmann, Cay(, Edson, and Furmankiewicz, Edson. Conceitos de Computação Com Java, 5.Ed. Grupo A - Bookman, 2009. Print. 
+Horstmann, Cay. Capítulo 7: Arrays e Listas de Arrays. In: Conceitos de Computação Com Java, 5.Ed. Grupo A - Bookman, 2009. 
+Disponível em: https://primo-pmtna01.hosted.exlibrisgroup.com/permalink/f/dnhp9k/sfx4340000000025274. Consultado em 2025-10-06.
